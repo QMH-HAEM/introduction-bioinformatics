@@ -1,5 +1,7 @@
 ######################################################################################
-# Introduction to simple regular expression, sed for row-operation, awk for column operation
+# Introduction to simple regular expression
+# Introduction to sed for row-operation, awk for column operation
+# Introduction to simple BED file format
 ######################################################################################
 
 cd bioinfo_session/
