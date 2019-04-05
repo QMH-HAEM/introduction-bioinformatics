@@ -1,0 +1,4 @@
+In the refGene.txt file, extract only the information for 8 myeloid genes in our lab (i.e. NPM1, FLT3, CEBPA, JAK2, CALR, MPL, CSF3R, SETBP1), sort the information by chromosome number and genomic coordinate of the starting position, and save the information into a new file called QMH_refGene.txt
+If you would like further information regarding the column of the refGene.txt file, you can refer to http://www.nodai-genome.org/btau/cgi-bin/hgTables?hgsid=5165&hgta_doSchemaDb=bosTau4&hgta_doSchemaTable=refGene
+
+ 
