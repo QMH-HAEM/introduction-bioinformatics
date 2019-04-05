@@ -1,0 +1,5 @@
+Instructions:
+Use bash to run LinuxTask02.sh
+Change directory to LinuxTask
+Create a sample list of 5 unique samples from the 10 text files
+The final sample list should consist of laboratory number and the S number
